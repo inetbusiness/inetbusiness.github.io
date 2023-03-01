@@ -1,0 +1,7 @@
+- name: Readable Readme
+  # You may pin to the exact commit or the version.
+  # uses: tianhaoz95/readable-readme@c798fb380d5dcaebabf1648931d42ae67351400e
+  uses: tianhaoz95/readable-readme@v1.0.4-beta
+  with:
+    # The token of the GitHub identity that report should be posted from.
+    token: # optional
