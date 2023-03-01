@@ -1,12 +1,2 @@
-on:
-  push:
-    branches:
-      - main
-jobs:
-  mlc:
-    name: Markup Link Checker (mlc)
-    # You may pin to the exact commit or the version.
-    # uses: becheran/mlc@167bf1b19ffed2e5a3f31770ec1046e302d592fb
-    uses: becheran/mlc@v0.16.1
-    with:
-      args: ./ # optional, default is ./
+- name: Markup Link Checker (mlc)
+  uses: becheran/mlc@v0.16.1
