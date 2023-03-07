@@ -3,6 +3,12 @@
 
 Eintragungen in diesem Bereich halten sich an aktuelles Lernmaterial zur Erstellung von **Bilanzen**
 
+Jede Bilanz ist in die entsprechenden Unterordner, die dem Geschäftsjahr entsprechen, einzufügen.
+
+Der Dateiname sollte dem Unternehmensnamen entsprechen und leerzeichen sollten durch Unterstriche ersetzt werden:
+
+*/epub/germany/bilanz/2010/Beispiel_Unternehmen_GmbH.md*
+
 ## Beispiel Unternehmen
 Beispiel Unternehmen GmbH  
 Beispielstraße 5  
