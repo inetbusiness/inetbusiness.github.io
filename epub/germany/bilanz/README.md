@@ -5,9 +5,9 @@ Eintragungen in diesem Bereich halten sich an aktuelles Lernmaterial zur Erstell
 
 Jede Bilanz ist in die entsprechenden Unterordner, die dem Geschäftsjahr entsprechen, einzufügen.
 
-Der Dateiname sollte dem Unternehmensnamen entsprechen und leerzeichen sollten durch Unterstriche ersetzt werden:
+Der Ordnername sollte dem Unternehmensnamen entsprechen und leerzeichen sollten durch Unterstriche ersetzt werden, der Dateiname muss README.md lauten:
 
-*/epub/germany/bilanz/2010/Beispiel_Unternehmen_GmbH.md*
+*/epub/germany/bilanz/2010/Beispiel_Unternehmen_GmbH/README.md*
 
 ## Beispiel Unternehmen
 Beispiel Unternehmen GmbH  
