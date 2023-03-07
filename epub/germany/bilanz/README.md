@@ -15,7 +15,7 @@ Beispielstraße 5
 0815 Beispielort  
 
 ### Bilanz zum 31. Dezember 2023
-|**Aktiva**|Wert|**Passiva**|Wert|
+|**Aktiva**|Wert|**Passiva**|Wert|  
 |:------------|-------------:|:-------------|-------------:|
 |*I. Anlagevermögen*||*I. Eigenkapital*|192.633,00|
 |       1. Gebäude|152.000,00|*II. Fremdkapital*||
@@ -33,7 +33,7 @@ Beispielstraße 5
 Der entsprechende Markdown für die oberhalb abgebildete Tabelle sieht wie folgt aus:  
 ```markdown
 ### Bilanz zum 31. Dezember 2023
-|**Aktiva**|Wert|**Passiva**|Wert|
+|**Aktiva**|Wert|**Passiva**|Wert|  
 |:------------|-------------:|:-------------|-------------:|
 |*I. Anlagevermögen*||*I. Eigenkapital*|192.633,00|
 |       1. Gebäude|152.000,00|*II. Fremdkapital*||
