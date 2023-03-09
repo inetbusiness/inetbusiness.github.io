@@ -28,7 +28,7 @@ Beispielstraße 5
 |   4. Forderungen|2.380,00| |
 |   5. Kassenbestand|450,00| |
 |   6. Bankguthaben|18.983,00| |
-|____|Gesamt: 232.263,00|____|Gesamt: 232.263,00|
+||Gesamt: 232.263,00||Gesamt: 232.263,00|
 
 Der entsprechende Markdown für die oberhalb abgebildete Tabelle sieht wie folgt aus:  
 ```markdown
