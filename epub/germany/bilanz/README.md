@@ -15,6 +15,7 @@ Beispielstraße 5
 0815 Beispielort  
 
 ### Bilanz zum 31. Dezember 2023
+:warning: It's important to keep an empty line before a table!
 
 | **Aktiva** | Wert | **Passiva** | Wert |
 | :--- | ---: | :--- | ---: |
