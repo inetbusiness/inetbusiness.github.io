@@ -34,6 +34,7 @@ Beispielstraße 5
 
 Der entsprechende Markdown für die oberhalb abgebildete Tabelle sieht wie folgt aus:  
 ```markdown
+
 | **Aktiva** | Wert | **Passiva** | Wert |
 | :--- | ---: | :--- | ---: |
 | *I. Anlagevermögen* |  | *I. Eigenkapital* | 192.633,00 |
