@@ -20,3 +20,5 @@ Norderstedt
 |   5. Kassenbestand|0,00|||
 |   6. Bankguthaben|0,00|||
 |------------|Gesamt: 0,00|-------------|Gesamt: 0,00|
+
+[Right click copy link to share this page](https://inetbusiness.github.io/epub/germany/bilanz/2022/Incredible_Software_UG/)
