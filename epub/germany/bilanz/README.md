@@ -15,6 +15,7 @@ Beispielstraße 5
 0815 Beispielort  
 
 ### Bilanz zum 31. Dezember 2023
+
 | **Aktiva** | Wert | **Passiva** | Wert |
 | :--- | ---: | :--- | ---: |
 | *I. Anlagevermögen* | | *I. Eigenkapital* | 192.633,00 |
